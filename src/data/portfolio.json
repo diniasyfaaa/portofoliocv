@@ -1,0 +1,68 @@
+[
+  {
+    "id": "p1",
+    "judul": "Brand Identity Growise HUB",
+    "kategori": "Branding",
+    "deskripsi": "Desain identitas visual lengkap untuk startup agritech Growise HUB, mencakup panduan merek, logo, dan palet warna.",
+    "tools": ["Adobe Illustrator", "Figma"],
+    "warna": "#f4c842",
+    "tahun": "2026",
+    "link": "https://behance.net/gallery/growise",
+    "featured": true
+  },
+  {
+    "id": "p2",
+    "judul": "UI/UX Dashboard PT Berbinar",
+    "kategori": "UI/UX Design",
+    "deskripsi": "Rancangan antarmuka dashboard operasional internal berbasis desktop dengan sistem design konsisten.",
+    "tools": ["Figma", "Design System"],
+    "warna": "#a78bfa",
+    "tahun": "2026",
+    "link": "https://figma.com/@diniasyfa",
+    "featured": true
+  },
+  {
+    "id": "p3",
+    "judul": "Konten Media Sosial HIMA",
+    "kategori": "Social Media",
+    "deskripsi": "Desain konten carousel edukasi dan strategi visual feed Instagram untuk Himpunan Mahasiswa Prodi SI.",
+    "tools": ["Canva", "Adobe Photoshop"],
+    "warna": "#34d399",
+    "tahun": "2025",
+    "link": "https://instagram.com/himasi",
+    "featured": false
+  },
+  {
+    "id": "p4",
+    "judul": "Video Profil CDC Ma'soem",
+    "kategori": "Videografi",
+    "deskripsi": "Produksi dan penyuntingan video profil universitas untuk promosi dan dokumentasi pusat karier mahasiswa.",
+    "tools": ["Capcut", "Adobe Premiere"],
+    "warna": "#f472b6",
+    "tahun": "2025",
+    "link": "https://youtube.com/masoem",
+    "featured": true
+  },
+  {
+    "id": "p5",
+    "judul": "Aplikasi Mobile Resep Nusantara",
+    "kategori": "UI/UX Design",
+    "deskripsi": "Eksplorasi antarmuka aplikasi seluler katalog kuliner nusantara dengan fitur bookmark dan video memasak.",
+    "tools": ["Figma", "Affinity Designer"],
+    "warna": "#38bdf8",
+    "tahun": "2025",
+    "link": "https://figma.com/@diniasyfa",
+    "featured": false
+  },
+  {
+    "id": "p6",
+    "judul": "Poster Festival Budaya Kampus",
+    "kategori": "Branding",
+    "deskripsi": "Desain poster utama festival seni dan budaya tahunan mahasiswa dengan ilustrasi vektor kontemporer.",
+    "tools": ["Adobe Illustrator", "Adobe Photoshop"],
+    "warna": "#fb923c",
+    "tahun": "2024",
+    "link": "https://behance.net/gallery/festival",
+    "featured": false
+  }
+]

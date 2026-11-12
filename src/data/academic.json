@@ -1,0 +1,21 @@
+{
+  "identitas": {
+    "nama": "Dini Asyfa",
+    "nim": "242505008",
+    "mataKuliah": "Pemrograman Mobile 2",
+    "dosen": "Iin, M.Kom",
+    "semester": "Semester 4 (Genap)",
+    "ipk": 3.86
+  },
+  "currentScore": {
+    "nilai": 89,
+    "grade": "A"
+  },
+  "learningPoints": 12375,
+  "learningProgress": [
+    { "label": "Attendance", "value": 100 },
+    { "label": "Practice",   "value": 87  },
+    { "label": "Quest",      "value": 95  },
+    { "label": "Challenge",  "value": 100 }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "nim": "242505008",
+  "nama": "Dini Asyfa",
+  "profesi": "Graphic Designer & UI/UX Designer",
+  "prodi": "Sistem Informasi",
+  "universitas": "Universitas Ma'soem",
+  "deskripsi": "Saya Dini Asyfa, seorang Mahasiswi aktif Prodi Sistem Informasi tingkat dua Universitas Ma'soem dengan minat yang kuat dalam bidang Industri Kreatif seperti desain dan editing video. Memiliki kreativitas tinggi dan kemampuan dalam kerja sama tim maupun individual.",
+  "tahun": "2026",
+  "barcode": "3 5 4 6 8 9 5 0 1 8 7 8 4",
+  "email": "diniasyfa@masoem.ac.id",
+  "telepon": "+62 812-3456-7890",
+  "lokasi": "Bandung, Jawa Barat, Indonesia",
+  "github": "https://github.com/diniasyfa",
+  "linkedin": "https://linkedin.com/in/diniasyfa",
+  "instagram": "@diniasyfa_",
+  "pengalaman": [
+    {
+      "role": "Graphic Designer",
+      "org": "Tim MEDSOS Prodi SI",
+      "period": "Feb 2025 – sekarang",
+      "deskripsi": "Merancang konten visual media sosial feed dan reels untuk promosi kegiatan prodi."
+    },
+    {
+      "role": "Videographer",
+      "org": "CDC Ma'soem University",
+      "period": "Okt 2025 – sekarang",
+      "deskripsi": "Dokumentasi acara kampus dan produksi video profil karier alumni."
+    },
+    {
+      "role": "Graphic Designer",
+      "org": "Growise HUB",
+      "period": "Jan 2026 – Apr 2026",
+      "deskripsi": "Desain identitas brand agritech, presentasi pitch deck, dan materi promosi digital."
+    },
+    {
+      "role": "Graphic Designer",
+      "org": "PT Berbinar Insightful",
+      "period": "Jan 2026 – Jul 2026",
+      "deskripsi": "Menciptakan aset desain kampanye digital dan materi workshop psikologi."
+    },
+    {
+      "role": "UI/UX Designer",
+      "org": "PT Berbinar Insightful",
+      "period": "Jul 2026 – sekarang",
+      "deskripsi": "Mendesain user journey, wireframe, serta prototype interaktif antarmuka dashboard klien."
+    }
+  ],
+  "organisasi": [
+    {
+      "role": "Departemen Kominfo",
+      "org": "Himpunan Mahasiswa (HIMA)",
+      "period": "2025 – sekarang",
+      "deskripsi": "Mengelola publikasi informasi kegiatan kemahasiswaan dan siaran pers internal."
+    },
+    {
+      "role": "Divisi PDD",
+      "org": "UKM Computer Club",
+      "period": "2025 – sekarang",
+      "deskripsi": "Publikasi, Dekorasi, dan Dokumentasi seluruh workshop dan seminar teknologi kampus."
+    }
+  ],
+  "pendidikan": [
+    {
+      "role": "Ilmu Pengetahuan Sosial",
+      "org": "SMA Karya Budi Cileunyi",
+      "period": "2021 – 2024",
+      "keterangan": "Lulus dengan fokus pada ilmu sosial dan komunikasi antarpribadi."
+    },
+    {
+      "role": "Sistem Informasi (S1)",
+      "org": "Universitas Ma'soem",
+      "period": "2024 – sekarang",
+      "keterangan": "Mahasiswi aktif tingkat 2 dengan konsentrasi pengembangan sistem & desain antarmuka."
+    }
+  ],
+  "kemampuan": [
+    "Kreatif, inovatif, dan komunikatif",
+    "Kerja sama tim maupun individual",
+    "Disiplin dalam manajemen waktu",
+    "Terbuka terhadap trend terkini media sosial",
+    "Problem solving dan riset kebutuhan pengguna",
+    "Penyusunan alur dan wireframing antarmuka sistem"
+  ],
+  "keahlian": [
+    "Figma", "Canva", "Affinity",
+    "Adobe Photoshop", "Adobe Illustrator", "Capcut",
+    "Wireframing", "Prototyping", "UI Design", "Design System"
+  ]
+}
